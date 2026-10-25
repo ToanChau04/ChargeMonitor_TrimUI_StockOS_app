@@ -1,0 +1,6 @@
+{
+    "label": "Charge Monitor",
+    "icon": "icon.png",
+    "launch": "launch.sh",
+    "description": "Theo doi sac pin va toi uu may khi sac"
+}

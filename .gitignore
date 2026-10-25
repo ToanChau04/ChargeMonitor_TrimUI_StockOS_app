@@ -1,0 +1,8 @@
+# File sinh ra khi chạy trên máy
+Apps/ChargeMonitor/logs/
+__pycache__/
+
+# Rác hệ điều hành
+.DS_Store
+Thumbs.db
+__MACOSX/
